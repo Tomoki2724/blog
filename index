@@ -1,0 +1,7 @@
+my_blog/
+├── _config.yml
+├── _layouts/
+│   └── default.html
+├── _posts/
+│   └── 2024-08-20-sample-post.md
+└── index.md
