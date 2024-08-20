@@ -1,0 +1,16 @@
+title: "My Blog"
+description: "This is a sample Jekyll blog"
+baseurl: "" # スラッシュを入れない
+url: "https://yourusername.github.io" # 自分のURL
+theme: minima
+markdown: kramdown
+
+# SEO設定
+seo:
+  title: "SEO optimized blog"
+  description: "SEO optimized description of your blog"
+  twitter:
+    username: your_twitter_username
+  facebook:
+    publisher: your_facebook_page
+  google_analytics: "UA-XXXXXXXXX-X" # 自分のGoogle Analytics ID
